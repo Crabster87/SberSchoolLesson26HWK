@@ -22,7 +22,7 @@
         </activity>
 
         <service
-            android:name=".ServiceWorker"
+            android:name=".NotificationService"
             android:enabled="true">
         </service>
 

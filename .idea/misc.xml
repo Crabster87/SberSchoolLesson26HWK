@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/iar87/Desktop/Projects/SberSchoolLesson26HWK/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/iar87/Desktop/Projects/SberSchoolLesson26HWK/app/src/main/res/drawable/ic_baseline_format_align_justify_24.xml" value="0.30925925925925923" />
+        <entry key="..\:/Users/iar87/Desktop/Projects/SberSchoolLesson26HWK/app/src/main/res/drawable/ic_launcher_background.xml" value="0.30925925925925923" />
+        <entry key="..\:/Users/iar87/Desktop/Projects/SberSchoolLesson26HWK/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/iar87/Desktop/Projects/SberSchoolLesson26HWK/app/src/main/res/layout/notification_custom.xml" value="0.33" />
+        <entry key="..\:/Users/iar87/Desktop/Projects/SberSchoolLesson26HWK/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.30925925925925923" />
       </map>
     </option>
   </component>
